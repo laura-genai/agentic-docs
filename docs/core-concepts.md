@@ -4,7 +4,7 @@ title: Core Concepts
 
 # Core Concepts
 
-Understanding a few core concepts will help you unlock the full power of `genai-agentos`.
+Understanding a few core concepts will help you unlock the full power of `genai-agentic`.
 
 ### Agent
 
