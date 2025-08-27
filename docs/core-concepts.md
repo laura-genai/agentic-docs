@@ -21,3 +21,5 @@ The `Backend` is the engine that powers the agents. It manages the agent lifecyc
 ### Protocol (A2A)
 
 The Agent-to-Agent (A2A) protocol is the set of rules that governs how agents communicate. It defines how messages are formatted, addressed, and routed. You don't usually need to interact with the protocol directly, but it's what enables the powerful multi-agent systems you can build with `genai-agentos`.
+
+### MCP
