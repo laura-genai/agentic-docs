@@ -1,9 +1,9 @@
 ---
-title: Welcome to GenAI Agentic
+title: Welcome to Agentic Atlas
 ---
-# Build AI Agents That Actually Work.
+# Build AI Agents And Start Automating
 
-**A friendly, powerful framework for creating and connecting AI agents. Stop wrestling with the plumbing and start building awesome stuff.**
+**A friendly, powerful framework for creating and connecting AI agents. Enable next-level automation—faster and save your most precious resource: time.**
 
 <div style="text-align: center;">
     <div>
@@ -15,16 +15,15 @@ title: Welcome to GenAI Agentic
 
 ---
 
-## What is GenAI Agentic?
+## What is Agentic Atlas?
 
 Ever felt like building AI agents should be easier? We did too.
 
-**GenAI Agentic** is the infrastructure layer you've been missing. It's a set of tools and protocols designed to make building, deploying, and managing AI agents incredibly simple. Think of it as the operating system for your future agent workforce.
+**Agentic Atlas** is the infrastructure layer you've been missing. It's a set of tools and protocols designed to make building, deploying, and managing AI agents incredibly simple. Think of it as the operating system for your future agent workforce.
 
 We handle the boring stuff—like making sure agents can talk to each other reliably—so you can focus on what matters: **bringing your creative ideas to life.**
 
 -   **Model-Agnostic:** Use GPT or your own local models. We don't play favorites.
--   **Simple & Pythonic:** If you know Python, you'll feel right at home. Our API is designed to be intuitive and clean.
 -   **Built for Collaboration:** Our Agent-to-Agent (A2A) protocol makes creating multi-agent systems a breeze.
 
 ---
@@ -59,7 +58,7 @@ Ready to dive in? You can have your first agent running in less time than it tak
 
 ## What Can You Build?
 
-The possibilities are endless, but here are a few ideas to get your brain spinning:
+The possibilities are endless, but here are a few ideas to start:
 
 -   A **personal coding assistant** that can write, review, and test your code.
 -   A team of **research agents** that collaborate to gather, synthesize, and report on any topic.
@@ -73,6 +72,6 @@ The possibilities are endless, but here are a few ideas to get your brain spinni
 We're building this in the open, and we'd love for you to join us. Whether you're a seasoned AI engineer or just agent-curious, you're welcome here.
 
 -   **[GitHub Discussions](https://github.com/genai-works-org/genai-agentos/discussions):** Ask questions, share your projects, and help shape the future of the protocol.
--   **[Discord Server](https://discord.gg/your-invite-link):** Hop in to chat with the team and other developers in real-time.
+-   **[Discord Server](https://discord.gg/MYWENj5w):** Hop in to chat with the team and other developers in real-time.
 
 **Let's build something awesome together!**
